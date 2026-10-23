@@ -1,0 +1,65 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bayram et~al.(2011)Bayram, Michailidis, Devetsikiotis, Bhattacharya, Chakrabortty, and Granelli]{Bayram2011}
+I.~S. Bayram, G.~Michailidis, M.~Devetsikiotis, S.~Bhattacharya, A.~Chakrabortty, and F.~Granelli.
+\newblock Local energy storage sizing in plug-in hybrid electric vehicle charging stations under blocking probability constraints.
+\newblock In \emph{Proc. {IEEE} International Conference on Smart Grid Communications ({SmartGridComm})}, pages 78--83, 2011.
+
+\bibitem[Bayram et~al.(2013)Bayram, Michailidis, Devetsikiotis, and Granelli]{Bayram2013}
+I.~S. Bayram, G.~Michailidis, M.~Devetsikiotis, and F.~Granelli.
+\newblock Electric power allocation in a network of fast charging stations.
+\newblock \emph{IEEE Journal on Selected Areas in Communications}, 31\penalty0 (7):\penalty0 1235--1246, 2013.
+
+\bibitem[Davis(1984)]{Davis1984}
+M.~H.~A. Davis.
+\newblock Piecewise-deterministic {M}arkov processes: a general class of non-diffusion stochastic models.
+\newblock \emph{Journal of the Royal Statistical Society: Series B}, 46\penalty0 (3):\penalty0 353--388, 1984.
+
+\bibitem[Davis(1993)]{Davis1993}
+M.~H.~A. Davis.
+\newblock \emph{Markov Models and Optimization}.
+\newblock Chapman \& Hall, London, 1993.
+
+\bibitem[Dupont and Hayel(2023)]{Dupont2023}
+A.~Dupont and Y.~Hayel.
+\newblock A loss queueing game for electric vehicle charging performance evaluation.
+\newblock \emph{Performance Evaluation}, 161:\penalty0 102365, 2023.
+
+\bibitem[Kabir et~al.(2020)Kabir, Assi, Tushar, and Yan]{Kabir2020}
+M.~E. Kabir, C.~Assi, M.~H.~K. Tushar, and J.~Yan.
+\newblock Optimal scheduling of {EV} charging at a solar power-based charging station.
+\newblock \emph{IEEE Systems Journal}, 14\penalty0 (3):\penalty0 4221--4231, 2020.
+
+\bibitem[Meyn and Tweedie(1993)]{MeynTweedie1993}
+S.~P. Meyn and R.~L. Tweedie.
+\newblock \emph{Markov Chains and Stochastic Stability}.
+\newblock Springer, London, 1993.
+
+\bibitem[{National Renewable Energy Laboratory}(2023)]{NREL2023}
+{National Renewable Energy Laboratory}.
+\newblock Battery energy storage for electric vehicle charging stations.
+\newblock Technical report, U.S. Department of Energy, 2023.
+\newblock Available at driveelectric.gov.
+
+\bibitem[Tan et~al.(2014)Tan, Sun, and Tsang]{Tan2014}
+X.~Tan, B.~Sun, and D.~H.~K. Tsang.
+\newblock Queueing network models for electric vehicle charging station with battery swapping.
+\newblock In \emph{Proc. {IEEE} International Conference on Smart Grid Communications ({SmartGridComm})}, pages 1--6, 2014.
+\newblock \doi{10.1109/SmartGridComm.2014.7007613}.
+
+\bibitem[Tang et~al.(2026)Tang, Wang, Li, Tao, and Sheng]{Tangetal2026}
+M.~Tang, M.~Wang, H.~Li, Z.~Tao, and W.~Sheng.
+\newblock Coordinated ev charging scheduling strategy incorporating wind power integration and user demand.
+\newblock \emph{Electric Power Systems Research}, 259:\penalty0 113220, 2026.
+
+\bibitem[Tran et~al.(2019)Tran, Islam, Muttaqi, and Sutanto]{Tran2019}
+V.~T. Tran, M.~R. Islam, K.~M. Muttaqi, and D.~Sutanto.
+\newblock An efficient energy management approach for a solar-powered {EV} battery charging facility to support distribution grids.
+\newblock \emph{IEEE Transactions on Industry Applications}, 55\penalty0 (6):\penalty0 6517--6526, 2019.
+
+\end{thebibliography}
